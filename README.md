@@ -14,12 +14,12 @@
 
 - To visualize key patterns and trends in the Netflix movie catalog.
 
-<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/genre_distribution.png?raw=true" width="600"/>
+<p float="left">
+  <img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/genre_distribution.png?raw=true" width="32%" />
+  <img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/vote_average_distribution.png?raw=true" width="32%" />
+  <img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/release_date_distribution.png?raw=true" width="32%" />
+</p>
 
-
-<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/vote_average_distribution.png?raw=true" width="600"/>
-
-<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/release_date_distribution.png?raw=true" width="600"/>
 
 
 ### ✅ Key Findings & Conclusion
