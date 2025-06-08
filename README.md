@@ -14,9 +14,13 @@
 
 - To visualize key patterns and trends in the Netflix movie catalog.
 
-![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/genre_distribution.png)
-![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/vote_average_distribution.png)
-![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Netflix_movie_data_analysis.ipynb)
+<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/genre_distribution.png?raw=true" width="600"/>
+
+
+<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/vote_average_distribution.png?raw=true" width="600"/>
+
+<img src="https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/release_date_distribution.png?raw=true" width="600"/>
+
 
 ### ✅ Key Findings & Conclusion
 - Most Released Year: The highest number of movies were released in [add year here], suggesting a peak in Netflix's content production.
