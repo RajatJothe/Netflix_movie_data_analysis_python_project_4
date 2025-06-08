@@ -14,3 +14,17 @@
 
 - To visualize key patterns and trends in the Netflix movie catalog.
 
+![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/genre_distribution.png)
+![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Image/vote_average_distribution.png)
+![](https://github.com/RajatJothe/Netflix_movie_data_analysis_python_project_4/blob/main/Netflix_movie_data_analysis.ipynb)
+
+### ✅ Key Findings & Conclusion
+- Most Released Year: The highest number of movies were released in [add year here], suggesting a peak in Netflix's content production.
+
+- Top Genres: Genres like [add genres here, e.g., Drama, Comedy, Action] were among the most frequently produced, reflecting viewer preferences.
+
+- Popularity vs. Ratings: Movies with high ratings weren’t always the most popular, indicating that viewership and critical reception don’t always align.
+
+- Top Movies: The most popular movie was [movie name], while the highest-rated was [another movie name].
+
+- Overall, Netflix continues to expand its movie offerings with a growing focus on original content and genre variety.
